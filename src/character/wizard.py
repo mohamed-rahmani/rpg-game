@@ -8,3 +8,4 @@ class Wizard:
         self.fuite = 10
         self.prix = 15
         self.type_unite = "wizard"
+        
